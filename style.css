@@ -1,0 +1,34 @@
+header {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 15px;
+    text-align: center;
+}
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 20px;
+    background-color: #eacee9;
+}
+h1 {
+    color: #333;
+}
+h2 {
+    color: black;
+    margin-top: 30px;
+}
+h3 {
+    color: #af14de;
+    margin-top: 20px;
+}
+b {
+    color: #d1127f;
+    font-family: Georgia;
+}
+div {
+    margin-bottom: 20px;
+    padding: 10px;
+    border: 1px solid #eee;
+    border-radius: 5px;
+    text-align: center;
+}
